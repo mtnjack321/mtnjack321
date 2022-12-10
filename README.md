@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mtnjack321
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning responsive web design with HTML and CSS
+- 🌱 Current Course: Harvard CS50x Intro
 
 <!---
 mtnjack321/mtnjack321 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
